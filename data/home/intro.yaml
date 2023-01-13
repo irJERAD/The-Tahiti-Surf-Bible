@@ -1,0 +1,19 @@
+sections:
+- icon: 'fa-cog'
+  title: 'Explore Surf Breaks'
+  description: "Browse through Tahiti's legendary roster of surf breaks. Read up on break type, favorable swell direction, and tide information for each location."
+
+- icon: 'fa-flash'
+  title: 'Get Wet Like a Local'
+  description: 'Acquire a local mindset tuned to uniqueness of each wave. GPS pins for each break AND the accompanying parking.'
+
+- icon: 'fa-star'
+  title: 'Bring Home A Piece of Paradise'
+  description: 'Olympics 2024 Teahupoo, Family surf trip, or researching your dream trip... Check out the info on local photographers and board shapers to bring something special home from this once in a life-time trip.'
+
+buttons:
+- link: '#'
+  text: 'Get Started'
+
+- link: '#'
+  text: 'Learn More'
